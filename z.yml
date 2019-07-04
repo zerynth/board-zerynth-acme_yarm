@@ -1,0 +1,15 @@
+---
+description: Add support for Acme Yarm
+fullname: board.zerynth.acme_yarm
+info:
+    board: SAM L21 Acme Yarm
+    chip_manufacturer: Microchip/Atmel
+    device: samdl1
+    family_type: ARM Cortex M0+
+keywords:
+- samdl1
+- board
+- atmel
+- microchip
+title: Acme Yarm Support Package
+...
